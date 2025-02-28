@@ -43,11 +43,11 @@ mouse,tumor_volume_left,tumor_volume_right
 ## Usage
 Basic usage:
 ```
-python tumor_grouping.py your_data.csv
+python bilateral_model_grouping.py your_data.csv
 ```
 Advanced options:
 ```
-python tumor_grouping.py your_data.csv --num_groups 5 --verbose --max_time 600
+python bilateral_model_grouping.py your_data.csv --num_groups 5 --verbose --max_time 600
 ```
 ## Parameters
 
